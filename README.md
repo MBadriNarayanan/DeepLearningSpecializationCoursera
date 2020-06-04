@@ -9,4 +9,4 @@ Deep Learning Specialization Course offered by deeplearning.ai and Coursera. Tau
 [Course 3 : Structuring Machine Learning Projects Certificate](https://github.com/MBadriNarayanan/DeepLearningSpecializationCoursera/blob/master/Course%203%20Certificate.pdf)
 
 
-[Course 4 : Convolutional Neural Networks](https://github.com/MBadriNarayanan/DeepLearningSpecializationCoursera/blob/master/Course%204%20Certificate.pdf)
+[Course 4 : Convolutional Neural Networks Certificate](https://github.com/MBadriNarayanan/DeepLearningSpecializationCoursera/blob/master/Course%204%20Certificate.pdf)
