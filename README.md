@@ -1,6 +1,6 @@
 ## DeepLearningSpecializationCoursera
 
-Deep Learning Specialization Course offered by deeplearning.ai and Coursera. Taught By Andrew Ng.
+Deep Learning Specialization (5 Courses). Course offered by deeplearning.ai and Coursera. Taught By Andrew Ng.
 
 [Specialization Certificate](https://github.com/MBadriNarayanan/DeepLearningSpecializationCoursera/blob/master/Course%20Specialization%20Certificate.pdf)
 
